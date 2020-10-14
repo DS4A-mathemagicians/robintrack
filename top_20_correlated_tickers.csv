@@ -1,0 +1,61 @@
+,cor,industry,rank,sector,source,ticker,which_cor
+0,0.817894927017252,Treasury Bond,1,ETF,smooth_cor,TLT,Spearman
+1,0.5420444800631375,Aerospace,1,Capital Goods,top_cor,BA,Spearman
+2,0.8671380024323422,Electric Utilities: Central,1,Public Utilities,smooth_cor,FE,CCF
+3,0.4805440518440216,Marine Transportation,2,Consumer Services,top_cor,CCL,Spearman
+4,0.8407656895842537,Industrial Machinery/Components,2,Miscellaneous,smooth_cor,KODK,CCF
+5,0.8158468282969144,Precious Metals,2,Basic Industries,smooth_cor,GOLD,Spearman
+6,0.8155170625003834,Precious Metals,3,ETF,smooth_cor,SLV,Spearman
+7,0.8338924664804597,Electric Utilities: Central,3,Public Utilities,smooth_cor,DTE,CCF
+8,0.4611822261165318,Air Freight/Delivery Services,3,Transportation,top_cor,AAL,Spearman
+9,0.80692253089939,Electric Utilities: Central,4,Public Utilities,smooth_cor,ES,Spearman
+10,0.8317923969133163,Semiconductors,4,Technology,smooth_cor,ON,CCF
+11,0.45800208987257457,Services-Misc. Amusement & Recreation,4,Consumer Services,top_cor,DIS,Spearman
+12,0.8043870398009237,RETAIL: Building Materials,5,Consumer Services,smooth_cor,HBP,CCF
+13,0.7986539568575443,Precious Metals,5,ETF,smooth_cor,GLD,Spearman
+14,0.4537112166683977,Semiconductors,5,Technology,top_cor,MU,Spearman
+15,0.42885575487992705,Hotels/Resorts,6,Consumer Services,top_cor,MGM,Spearman
+16,0.7908598688426508,Military/Government/Technical,6,Basic Industries,smooth_cor,J,Spearman
+17,0.7883568052601296,Department/Specialty Retail Stores,6,Consumer Services,smooth_cor,BIG,CCF
+18,0.7880896252526035,Medical/Dental Instruments,7,Health Care,smooth_cor,IRTC,CCF
+19,0.4269032762748504,Auto Manufacturing,7,Capital Goods,top_cor,TSLA,Spearman
+20,0.7875936473760706,Department/Specialty Retail Stores,7,Consumer Services,smooth_cor,BIG,Spearman
+21,0.7702430052074395,Oil Refining/Marketing,8,Energy,smooth_cor,NGL,CCF
+22,0.4247062671200825,Air Freight/Delivery Services,8,Transportation,top_cor,DAL,Spearman
+23,0.7855484573075364,Real Estate Investment Trusts,8,Consumer Services,smooth_cor,ARE,Spearman
+24,0.7821864699989887,Aerospace,9,Capital Goods,smooth_cor,BA,Spearman
+25,0.4130786110634723,Military/Government/Technical,9,Basic Industries,top_cor,J,Spearman
+26,0.7530459271949047,Precious Metals,9,Basic Industries,smooth_cor,OR,CCF
+27,0.40032437675318,Computer Software: Prepackaged Software,10,Technology,top_cor,MSFT,Spearman
+28,0.7507473483858554,Books,10,Consumer Services,smooth_cor,HMHC,CCF
+29,0.7597991964163838,Services-Misc. Amusement & Recreation,10,Consumer Services,smooth_cor,DIS,Spearman
+30,0.7577352470414677,Commercial Banks,11,Finance,smooth_cor,TD,Spearman
+31,0.749021321556011,Business Services,11,Miscellaneous,smooth_cor,SSNT,CCF
+32,0.3835207637044663,Rental/Leasing Companies,11,Consumer Services,top_cor,HTZ,Spearman
+33,0.7550614352660466,ETF,12,ETF,smooth_cor,IWM,Spearman
+34,0.3818613598878043,Auto Manufacturing,12,Capital Goods,top_cor,F,Spearman
+35,0.7447035930877844,ETF,12,ETF,smooth_cor,TNA,CCF
+36,0.36048672255149067,ETF,13,ETF,top_cor,IWM,Spearman
+37,0.7421845544993821,Biotechnology: Biological Products (No Diagnostic Substances),13,Health Care,smooth_cor,TECH,CCF
+38,0.7491240189844376,Computer Software: Prepackaged Software,13,Technology,smooth_cor,SHOP,Spearman
+39,0.3585969041335464,Integrated oil Companies,14,Energy,top_cor,XOM,Spearman
+40,0.7361690204798461,ETF,14,ETF,smooth_cor,ARKK,CCF
+41,0.7487395405233727,Precious Metals,14,Basic Industries,smooth_cor,OR,Spearman
+42,0.7475197197619444,Semiconductors,15,Technology,smooth_cor,MU,Spearman
+43,0.7303510889275691,Electric Utilities: Central,15,Public Utilities,smooth_cor,SO,CCF
+44,0.3572241877348759,Commodity,15,Commodity,top_cor,GLD,Spearman
+45,0.737314608519691,Computer Software: Prepackaged Software,16,Technology,smooth_cor,NOW,Spearman
+46,0.35619468043032,Real Estate Investment Trusts,16,Consumer Services,top_cor,ARE,Spearman
+47,0.7296421820899465,Recreational Products/Toys,16,Consumer Non-Durables,smooth_cor,HAS,CCF
+48,0.3511976374318108,Commodity,17,Commodity,top_cor,SLV,Spearman
+49,0.7364220303932097,Air Freight/Delivery Services,17,Transportation,smooth_cor,AAL,Spearman
+50,0.728869939700863,Specialty Insurers,17,Finance,smooth_cor,BRO,CCF
+51,0.3469661047594055,Computer Software: Prepackaged Software,18,Technology,top_cor,SHOP,Spearman
+52,0.7362661508884946,Precious Metals,18,ETF,smooth_cor,GDX,Spearman
+53,0.7268525223093003,Major Pharmaceuticals,18,Health Care,smooth_cor,PFE,CCF
+54,0.7243868042590221,Marine Transportation,19,Consumer Services,smooth_cor,NCLH,CCF
+55,0.730865330055588,Electric Utilities: Central,19,Public Utilities,smooth_cor,DTE,Spearman
+56,0.33435886574469975,Catalog/Specialty Distribution,19,Consumer Services,top_cor,W,Spearman
+57,0.7266930580619402,Recreational Products/Toys,20,Consumer Non-Durables,smooth_cor,HAS,Spearman
+58,0.7177946910528955,ETF,20,ETF,smooth_cor,IWM,CCF
+59,0.3316283455384886,Commercial Banks,20,Finance,top_cor,TD,Spearman
