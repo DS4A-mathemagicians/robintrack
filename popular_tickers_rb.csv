@@ -1,0 +1,41 @@
+,ticker,sector,industry,popular_on,value,timestamp,date
+0,F,Capital Goods,Auto Manufacturing,Robinhood,911470.0,2020-08-13 21:00:00,2020-08-13
+1,GE,Energy,Consumer Electronics/Appliances,Robinhood,856899.0,2020-08-13 21:00:00,2020-08-13
+2,AAPL,Technology,Computer Manufacturing,Robinhood,730774.0,2020-08-13 21:00:00,2020-08-13
+3,MSFT,Technology,Computer Software: Prepackaged Software,Robinhood,653838.0,2020-08-13 21:00:00,2020-08-13
+4,AAL,Transportation,Air Freight/Delivery Services,Robinhood,637705.0,2020-08-13 21:00:00,2020-08-13
+5,DIS,Consumer Services,Services-Misc. Amusement & Recreation,Robinhood,598367.0,2020-08-13 21:00:00,2020-08-13
+6,DAL,Transportation,Air Freight/Delivery Services,Robinhood,572679.0,2020-08-13 21:00:00,2020-08-13
+7,TSLA,Capital Goods,Auto Manufacturing,Robinhood,563621.0,2020-08-13 21:00:00,2020-08-13
+8,CCL,Consumer Services,Marine Transportation,Robinhood,481631.0,2020-08-13 21:00:00,2020-08-13
+9,GPRO,Miscellaneous,Industrial Machinery/Components,Robinhood,475051.0,2020-08-13 21:00:00,2020-08-13
+10,AMZN,Consumer Services,Catalog/Specialty Distribution,Robinhood,427973.0,2020-08-13 21:00:00,2020-08-13
+11,PLUG,Energy,Industrial Machinery/Components,Robinhood,387421.0,2020-08-13 21:00:00,2020-08-13
+12,BAC,Finance,Major Banks,Robinhood,360009.0,2020-08-13 21:00:00,2020-08-13
+13,NCLH,Consumer Services,Marine Transportation,Robinhood,353071.0,2020-08-13 21:00:00,2020-08-13
+14,SNAP,Technology,"Computer Software: Programming, Data Processing",Robinhood,350278.0,2020-08-13 21:00:00,2020-08-13
+15,FIT,Technology,Computer Manufacturing,Robinhood,323346.0,2020-08-13 21:00:00,2020-08-13
+16,BA,Capital Goods,Aerospace,Robinhood,320552.0,2020-08-13 21:00:00,2020-08-13
+17,UAL,Transportation,Air Freight/Delivery Services,Robinhood,311457.0,2020-08-13 21:00:00,2020-08-13
+18,AMD,Technology,Semiconductors,Robinhood,264849.0,2020-08-13 21:00:00,2020-08-13
+19,BABA,Miscellaneous,Business Services,Robinhood,255110.0,2020-08-13 21:00:00,2020-08-13
+20,GE,Energy,Consumer Electronics/Appliances,Robinhood,277517.0,2019-08-13 12:00:00,2019-08-13
+21,F,Capital Goods,Auto Manufacturing,Robinhood,275901.0,2019-08-13 12:00:00,2019-08-13
+22,MSFT,Technology,Computer Software: Prepackaged Software,Robinhood,221661.0,2019-08-13 12:00:00,2019-08-13
+23,AAPL,Technology,Computer Manufacturing,Robinhood,219246.0,2019-08-13 12:00:00,2019-08-13
+24,FIT,Technology,Computer Manufacturing,Robinhood,207687.0,2019-08-13 12:00:00,2019-08-13
+25,GPRO,Miscellaneous,Industrial Machinery/Components,Robinhood,187227.0,2019-08-13 12:00:00,2019-08-13
+26,CRON,Consumer Durables,Specialty Chemicals,Robinhood,183665.0,2019-08-13 12:00:00,2019-08-13
+27,AMD,Technology,Semiconductors,Robinhood,173452.0,2019-08-13 12:00:00,2019-08-13
+28,TSLA,Capital Goods,Auto Manufacturing,Robinhood,162917.0,2019-08-13 12:00:00,2019-08-13
+29,DIS,Consumer Services,Services-Misc. Amusement & Recreation,Robinhood,160682.0,2019-08-13 12:00:00,2019-08-13
+30,SNAP,Technology,"Computer Software: Programming, Data Processing",Robinhood,155946.0,2019-08-13 12:00:00,2019-08-13
+31,FB,Technology,"Computer Software: Programming, Data Processing",Robinhood,138520.0,2019-08-13 12:00:00,2019-08-13
+32,BABA,Miscellaneous,Business Services,Robinhood,129036.0,2019-08-13 12:00:00,2019-08-13
+33,ZNGA,Technology,EDP Services,Robinhood,121543.0,2019-08-13 12:00:00,2019-08-13
+34,PLUG,Energy,Industrial Machinery/Components,Robinhood,119120.0,2019-08-13 12:00:00,2019-08-13
+35,AMZN,Consumer Services,Catalog/Specialty Distribution,Robinhood,116258.0,2019-08-13 12:00:00,2019-08-13
+36,BAC,Finance,Major Banks,Robinhood,105959.0,2019-08-13 12:00:00,2019-08-13
+37,NFLX,Consumer Services,Consumer Electronics/Video Chains,Robinhood,104815.0,2019-08-13 12:00:00,2019-08-13
+38,TWTR,Technology,"Computer Software: Programming, Data Processing",Robinhood,100282.0,2019-08-13 12:00:00,2019-08-13
+39,NVDA,Technology,Semiconductors,Robinhood,100227.0,2019-08-13 12:00:00,2019-08-13
