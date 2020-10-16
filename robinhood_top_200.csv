@@ -1,0 +1,401 @@
+,user_holding,sector,Covid,Date
+AAL,9937.0,Transportation,pre,2019-08-13
+AAPL,217546.0,Technology,pre,2019-08-13
+ABBV,19788.0,Health Care,pre,2019-08-13
+ADBE,12283.0,Technology,pre,2019-08-13
+AGFS,8044.0,Finance,pre,2019-08-13
+AGNC,10501.0,Consumer Services,pre,2019-08-13
+AKS,24474.0,Basic Industries,pre,2019-08-13
+AMAT,14378.0,Technology,pre,2019-08-13
+AMC,11191.0,Consumer Services,pre,2019-08-13
+AMD,174003.0,Technology,pre,2019-08-13
+AMRN,12523.0,Health Care,pre,2019-08-13
+AMZN,116183.0,Consumer Services,pre,2019-08-13
+APLE,12703.0,Consumer Services,pre,2019-08-13
+APPS,7812.0,Miscellaneous,pre,2019-08-13
+ARQL,7763.0,Health Care,pre,2019-08-13
+ASM,8773.0,Basic Industries,pre,2019-08-13
+ATVI,52715.0,Technology,pre,2019-08-13
+AUPH,8255.0,Health Care,pre,2019-08-13
+AUY,38472.0,Basic Industries,pre,2019-08-13
+BA,37292.0,Capital Goods,pre,2019-08-13
+BABA,129634.0,Miscellaneous,pre,2019-08-13
+BAC,105774.0,Finance,pre,2019-08-13
+BB,11630.0,Technology,pre,2019-08-13
+BIDU,17255.0,Technology,pre,2019-08-13
+BILI,25484.0,Technology,pre,2019-08-13
+BIOC,9994.0,Health Care,pre,2019-08-13
+BLNK,12168.0,Consumer Durables,pre,2019-08-13
+BOTZ,19815.0,Technology,pre,2019-08-13
+BP,9991.0,Energy,pre,2019-08-13
+BTG,8554.0,Basic Industries,pre,2019-08-13
+BZUN,8831.0,Consumer Services,pre,2019-08-13
+CARA,24013.0,Health Care,pre,2019-08-13
+CAT,8767.0,Capital Goods,pre,2019-08-13
+CLDR,16374.0,Technology,pre,2019-08-13
+CMCSA,11797.0,Consumer Services,pre,2019-08-13
+COST,22051.0,Consumer Services,pre,2019-08-13
+CPRX,18624.0,Health Care,pre,2019-08-13
+CRBP,46167.0,Health Care,pre,2019-08-13
+CRM,35504.0,Technology,pre,2019-08-13
+CRON,183448.0,Consumer Durables,pre,2019-08-13
+CRSP,20531.0,Health Care,pre,2019-08-13
+CSCO,36057.0,Technology,pre,2019-08-13
+CTL,11994.0,Technology,pre,2019-08-13
+CVS,23341.0,Health Care,pre,2019-08-13
+CY,9697.0,Technology,pre,2019-08-13
+DAL,14332.0,Transportation,pre,2019-08-13
+DBX,28301.0,Technology,pre,2019-08-13
+DIS,160796.0,Consumer Services,pre,2019-08-13
+DNR,27974.0,Energy,pre,2019-08-13
+DOCU,9403.0,Technology,pre,2019-08-13
+EA,15203.0,Technology,pre,2019-08-13
+EDIT,10062.0,Health Care,pre,2019-08-13
+ENPH,29165.0,Technology,pre,2019-08-13
+ET,10812.0,Public Utilities,pre,2019-08-13
+ETSY,10506.0,Miscellaneous,pre,2019-08-13
+F,275971.0,Capital Goods,pre,2019-08-13
+FB,138136.0,Technology,pre,2019-08-13
+FCAU,9941.0,Capital Goods,pre,2019-08-13
+FDX,7850.0,Transportation,pre,2019-08-13
+FIT,207840.0,Technology,pre,2019-08-13
+FNKO,10547.0,Consumer Non-Durables,pre,2019-08-13
+FSLR,7847.0,Technology,pre,2019-08-13
+GE,278444.0,Energy,pre,2019-08-13
+GERN,35121.0,Health Care,pre,2019-08-13
+GILD,8034.0,Health Care,pre,2019-08-13
+GLD,8457.0,Basic Industries,pre,2019-08-13
+GLUU,27824.0,Technology,pre,2019-08-13
+GM,25505.0,Capital Goods,pre,2019-08-13
+GME,12579.0,Consumer Services,pre,2019-08-13
+GNMX,7958.0,Health Care,pre,2019-08-13
+GOLD,10037.0,Basic Industries,pre,2019-08-13
+GOOG,20634.0,Technology,pre,2019-08-13
+GOOGL,33283.0,Technology,pre,2019-08-13
+GPRO,187447.0,Miscellaneous,pre,2019-08-13
+GRPN,76156.0,Technology,pre,2019-08-13
+GSAT,10319.0,Technology,pre,2019-08-13
+GWPH,9471.0,Health Care,pre,2019-08-13
+HD,10329.0,Consumer Services,pre,2019-08-13
+HPQ,8941.0,Technology,pre,2019-08-13
+HUSA,16009.0,Energy,pre,2019-08-13
+IBM,11283.0,Technology,pre,2019-08-13
+IGC,54560.0,Public Utilities,pre,2019-08-13
+IIPR,15363.0,Finance,pre,2019-08-13
+IMGN,9705.0,Health Care,pre,2019-08-13
+INTC,49817.0,Technology,pre,2019-08-13
+IQ,41563.0,Consumer Services,pre,2019-08-13
+IRBT,7998.0,Consumer Durables,pre,2019-08-13
+IRM,10073.0,Consumer Services,pre,2019-08-13
+JBLU,8913.0,Transportation,pre,2019-08-13
+JCPNQ,33068.0,Consumer Non-Durables,pre,2019-08-13
+JD,32212.0,Consumer Services,pre,2019-08-13
+JNJ,17894.0,Health Care,pre,2019-08-13
+JPM,17502.0,Finance,pre,2019-08-13
+KGC,8296.0,Basic Industries,pre,2019-08-13
+KHC,19850.0,Consumer Non-Durables,pre,2019-08-13
+KMI,10768.0,Public Utilities,pre,2019-08-13
+KO,46628.0,Consumer Non-Durables,pre,2019-08-13
+KODK,8721.0,Miscellaneous,pre,2019-08-13
+KR,13779.0,Consumer Services,pre,2019-08-13
+LLNW,19780.0,Miscellaneous,pre,2019-08-13
+LMT,8484.0,Capital Goods,pre,2019-08-13
+LULU,9681.0,Consumer Non-Durables,pre,2019-08-13
+LUV,18882.0,Transportation,pre,2019-08-13
+M,7991.0,Consumer Services,pre,2019-08-13
+MA,15680.0,Miscellaneous,pre,2019-08-13
+MCD,13083.0,Consumer Services,pre,2019-08-13
+MJ,37339.0,ETF,pre,2019-08-13
+MMM,9173.0,Health Care,pre,2019-08-13
+MNKD,9180.0,Health Care,pre,2019-08-13
+MO,14806.0,Consumer Non-Durables,pre,2019-08-13
+MRO,8180.0,Energy,pre,2019-08-13
+MSFT,221116.0,Technology,pre,2019-08-13
+MTCH,8965.0,Technology,pre,2019-08-13
+MU,53528.0,Technology,pre,2019-08-13
+NAK,16941.0,Basic Industries,pre,2019-08-13
+NBEV,57782.0,Consumer Non-Durables,pre,2019-08-13
+NFLX,104823.0,Consumer Services,pre,2019-08-13
+NGD,10510.0,,pre,2019-08-13
+NKE,47389.0,Consumer Non-Durables,pre,2019-08-13
+NLY,11524.0,Consumer Services,pre,2019-08-13
+NOG,11655.0,Energy,pre,2019-08-13
+NOK,32141.0,Technology,pre,2019-08-13
+NRZ,26357.0,Consumer Services,pre,2019-08-13
+NTNX,9039.0,Technology,pre,2019-08-13
+NVDA,100086.0,Technology,pre,2019-08-13
+NXTD,11591.0,Consumer Services,pre,2019-08-13
+O,14421.0,Consumer Services,pre,2019-08-13
+OGEN,40716.0,Health Care,pre,2019-08-13
+OKTA,17156.0,Technology,pre,2019-08-13
+ORC,9392.0,Consumer Services,pre,2019-08-13
+OSTK,8648.0,Consumer Services,pre,2019-08-13
+PCG,19068.0,Public Utilities,pre,2019-08-13
+PFE,27333.0,Health Care,pre,2019-08-13
+PG,11350.0,Basic Industries,pre,2019-08-13
+PLUG,119157.0,Energy,pre,2019-08-13
+PSEC,16964.0,,pre,2019-08-13
+PTN,11424.0,,pre,2019-08-13
+PYPL,39851.0,Miscellaneous,pre,2019-08-13
+QCOM,19932.0,Technology,pre,2019-08-13
+QQQ,15709.0,Technology,pre,2019-08-13
+RBS,8587.0,Finance,pre,2019-08-13
+RIOT,16167.0,Health Care,pre,2019-08-13
+ROKU,27324.0,Consumer Services,pre,2019-08-13
+RUN,11487.0,Capital Goods,pre,2019-08-13
+S,59620.0,Basic Industries,pre,2019-08-13
+SAN,8516.0,Finance,pre,2019-08-13
+SBUX,82797.0,Consumer Services,pre,2019-08-13
+SENS,9131.0,Health Care,pre,2019-08-13
+SFIX,19472.0,Consumer Services,pre,2019-08-13
+SHOP,27785.0,Technology,pre,2019-08-13
+SIRI,56405.0,Consumer Services,pre,2019-08-13
+SNAP,156256.0,Technology,pre,2019-08-13
+SNE,23397.0,Consumer Non-Durables,pre,2019-08-13
+SPHD,13946.0,ETF,pre,2019-08-13
+SPOT,18068.0,Consumer Services,pre,2019-08-13
+SPWR,21270.0,Technology,pre,2019-08-13
+SPY,38469.0,ETF,pre,2019-08-13
+SPYG,10987.0,,pre,2019-08-13
+SQ,80875.0,Technology,pre,2019-08-13
+STOR,8054.0,Consumer Services,pre,2019-08-13
+T,84451.0,Public Utilities,pre,2019-08-13
+TDOC,8397.0,Health Care,pre,2019-08-13
+TEAM,8886.0,Technology,pre,2019-08-13
+TEUM,23110.0,Technology,pre,2019-08-13
+TEVA,19794.0,Health Care,pre,2019-08-13
+TGT,16732.0,Consumer Services,pre,2019-08-13
+TMUS,17084.0,Public Utilities,pre,2019-08-13
+TQQQ,9040.0,,pre,2019-08-13
+TRQ,15764.0,Basic Industries,pre,2019-08-13
+TSLA,162766.0,Capital Goods,pre,2019-08-13
+TTD,8715.0,Technology,pre,2019-08-13
+TTWO,11010.0,Technology,pre,2019-08-13
+TWLO,27578.0,Technology,pre,2019-08-13
+TWTR,100216.0,Technology,pre,2019-08-13
+UA,9972.0,Consumer Non-Durables,pre,2019-08-13
+UAA,18450.0,Consumer Non-Durables,pre,2019-08-13
+UNH,8557.0,Health Care,pre,2019-08-13
+USO,7971.0,ETF,pre,2019-08-13
+V,44980.0,Miscellaneous,pre,2019-08-13
+VGT,8539.0,Technology,pre,2019-08-13
+VKTX,25885.0,Health Care,pre,2019-08-13
+VNQ,10653.0,ETF,pre,2019-08-13
+VOO,49955.0,ETF,pre,2019-08-13
+VSLR,32052.0,Capital Goods,pre,2019-08-13
+VSTM,16052.0,Health Care,pre,2019-08-13
+VTI,28827.0,ETF,pre,2019-08-13
+VWO,11882.0,ETF,pre,2019-08-13
+VYM,14565.0,ETF,pre,2019-08-13
+VZ,27012.0,Public Utilities,pre,2019-08-13
+WB,8952.0,Technology,pre,2019-08-13
+WFC,14771.0,Finance,pre,2019-08-13
+WKHS,14354.0,Capital Goods,pre,2019-08-13
+WM,16688.0,Public Utilities,pre,2019-08-13
+WMT,29526.0,Consumer Services,pre,2019-08-13
+X,10719.0,Basic Industries,pre,2019-08-13
+XOM,14310.0,Energy,pre,2019-08-13
+XXII,50043.0,Health Care,pre,2019-08-13
+ZN,11388.0,Basic Industries,pre,2019-08-13
+ZNGA,121674.0,Technology,pre,2019-08-13
+ZYNE,21671.0,Health Care,pre,2019-08-13
+AAL,637705.0,Transportation,post,2020-08-13
+AAPL,730774.0,Technology,post,2020-08-13
+ABBV,45198.0,Health Care,post,2020-08-13
+ADT,39884.0,Consumer Services,post,2020-08-13
+ALK,55608.0,Transportation,post,2020-08-13
+AMC,152500.0,Consumer Services,post,2020-08-13
+AMD,264849.0,Technology,post,2020-08-13
+AMZN,427973.0,Consumer Services,post,2020-08-13
+APLE,33011.0,Consumer Services,post,2020-08-13
+ATNM,39134.0,,post,2020-08-13
+ATVI,74315.0,Technology,post,2020-08-13
+AUY,59175.0,Basic Industries,post,2020-08-13
+AZN,74119.0,Health Care,post,2020-08-13
+BA,320552.0,Capital Goods,post,2020-08-13
+BABA,255110.0,Miscellaneous,post,2020-08-13
+BAC,360009.0,Finance,post,2020-08-13
+BILI,40100.0,Technology,post,2020-08-13
+BIOC,70277.0,Health Care,post,2020-08-13
+BLNK,38346.0,Consumer Durables,post,2020-08-13
+BOXL,30953.0,Consumer Services,post,2020-08-13
+BP,74853.0,Energy,post,2020-08-13
+BTG,58320.0,Basic Industries,post,2020-08-13
+BUD,38569.0,Consumer Non-Durables,post,2020-08-13
+C,35106.0,Finance,post,2020-08-13
+CCL,481631.0,Consumer Services,post,2020-08-13
+CLF,32604.0,Basic Industries,post,2020-08-13
+CNK,44372.0,Consumer Services,post,2020-08-13
+COST,45964.0,Consumer Services,post,2020-08-13
+COTY,55299.0,Consumer Non-Durables,post,2020-08-13
+CPE,106509.0,Energy,post,2020-08-13
+CPRX,118050.0,Health Care,post,2020-08-13
+CRBP,79524.0,Health Care,post,2020-08-13
+CRM,53002.0,Technology,post,2020-08-13
+CRON,217793.0,Consumer Durables,post,2020-08-13
+CRSP,32225.0,Health Care,post,2020-08-13
+CSCO,67782.0,Technology,post,2020-08-13
+CUK,35262.0,Consumer Services,post,2020-08-13
+CVS,39697.0,Health Care,post,2020-08-13
+CVX,50998.0,Energy,post,2020-08-13
+DAL,572679.0,Transportation,post,2020-08-13
+DIS,598367.0,Consumer Services,post,2020-08-13
+DNR,70845.0,Energy,post,2020-08-13
+DOCU,41908.0,Technology,post,2020-08-13
+ENPH,34395.0,Technology,post,2020-08-13
+EPD,42404.0,Public Utilities,post,2020-08-13
+ERI,64695.0,Miscellaneous,post,2020-08-13
+ERIC,38862.0,Technology,post,2020-08-13
+ET,83256.0,Public Utilities,post,2020-08-13
+ETSY,32173.0,Miscellaneous,post,2020-08-13
+EVRI,64973.0,Consumer Services,post,2020-08-13
+F,911470.0,Capital Goods,post,2020-08-13
+FB,254208.0,Technology,post,2020-08-13
+FCAU,33186.0,Capital Goods,post,2020-08-13
+FIT,323346.0,Technology,post,2020-08-13
+GE,856899.0,Energy,post,2020-08-13
+GILD,88730.0,Health Care,post,2020-08-13
+GLD,40698.0,Basic Industries,post,2020-08-13
+GLUU,56160.0,Technology,post,2020-08-13
+GM,131166.0,Capital Goods,post,2020-08-13
+GME,32853.0,Consumer Services,post,2020-08-13
+GNC,40582.0,Health Care,post,2020-08-13
+GNUS,185095.0,Consumer Services,post,2020-08-13
+GOLD,40618.0,Basic Industries,post,2020-08-13
+GOOG,45303.0,Technology,post,2020-08-13
+GOOGL,106114.0,Technology,post,2020-08-13
+GPRO,475051.0,Miscellaneous,post,2020-08-13
+GPS,79371.0,Consumer Services,post,2020-08-13
+GRPN,220435.0,Technology,post,2020-08-13
+HAL,85607.0,Energy,post,2020-08-13
+HD,30635.0,Consumer Services,post,2020-08-13
+HLX,31103.0,Energy,post,2020-08-13
+HTBX,51916.0,Health Care,post,2020-08-13
+HTZ,137050.0,Consumer Services,post,2020-08-13
+HUSA,35643.0,Energy,post,2020-08-13
+IBIO,98136.0,Health Care,post,2020-08-13
+IGC,65589.0,Public Utilities,post,2020-08-13
+INO,208972.0,Health Care,post,2020-08-13
+INPX,60697.0,Technology,post,2020-08-13
+INSG,53711.0,Capital Goods,post,2020-08-13
+INTC,106589.0,Technology,post,2020-08-13
+IVR,137737.0,Consumer Services,post,2020-08-13
+JBLU,189177.0,Transportation,post,2020-08-13
+JCPNQ,61564.0,Consumer Non-Durables,post,2020-08-13
+JD,41571.0,Consumer Services,post,2020-08-13
+JDST,33214.0,Basic Industries,post,2020-08-13
+JETS,38415.0,Transportation,post,2020-08-13
+JNJ,82235.0,Health Care,post,2020-08-13
+JPM,88455.0,Finance,post,2020-08-13
+KO,216801.0,Consumer Non-Durables,post,2020-08-13
+KODK,93730.0,Miscellaneous,post,2020-08-13
+KTOV,49231.0,Health Care,post,2020-08-13
+LLNW,34251.0,Miscellaneous,post,2020-08-13
+LUV,201805.0,Transportation,post,2020-08-13
+M,67336.0,Consumer Services,post,2020-08-13
+MA,36553.0,Miscellaneous,post,2020-08-13
+MARK,43612.0,Consumer Services,post,2020-08-13
+MCD,46178.0,Consumer Services,post,2020-08-13
+MFA,150578.0,Consumer Services,post,2020-08-13
+MGM,177707.0,Consumer Services,post,2020-08-13
+MJ,45692.0,ETF,post,2020-08-13
+MMM,35085.0,Health Care,post,2020-08-13
+MO,30502.0,Consumer Non-Durables,post,2020-08-13
+MPC,38832.0,Energy,post,2020-08-13
+MRO,187318.0,Energy,post,2020-08-13
+MSFT,653838.0,Technology,post,2020-08-13
+MTNB,43812.0,Health Care,post,2020-08-13
+MU,55695.0,Technology,post,2020-08-13
+MVIS,48816.0,Capital Goods,post,2020-08-13
+NAK,41151.0,Basic Industries,post,2020-08-13
+NAT,32370.0,Consumer Services,post,2020-08-13
+NBEV,59365.0,Consumer Non-Durables,post,2020-08-13
+NCLH,353071.0,Consumer Services,post,2020-08-13
+NFLX,236819.0,Consumer Services,post,2020-08-13
+NKE,101893.0,Consumer Non-Durables,post,2020-08-13
+NOG,57833.0,Energy,post,2020-08-13
+NOK,130725.0,Technology,post,2020-08-13
+NOVN,35406.0,Health Care,post,2020-08-13
+NRZ,112593.0,Consumer Services,post,2020-08-13
+NTEC,31963.0,Health Care,post,2020-08-13
+NVDA,157881.0,Technology,post,2020-08-13
+NYMT,76741.0,Consumer Services,post,2020-08-13
+O,63963.0,Consumer Services,post,2020-08-13
+OAS,92140.0,Energy,post,2020-08-13
+OGEN,61157.0,Health Care,post,2020-08-13
+OPK,43991.0,Health Care,post,2020-08-13
+OXY,74666.0,Energy,post,2020-08-13
+PCG,52515.0,Public Utilities,post,2020-08-13
+PENN,98652.0,Consumer Services,post,2020-08-13
+PFE,187718.0,Health Care,post,2020-08-13
+PLAY,101582.0,Consumer Services,post,2020-08-13
+PLM,31826.0,Basic Industries,post,2020-08-13
+PLUG,387421.0,Energy,post,2020-08-13
+PRTY,31199.0,Consumer Services,post,2020-08-13
+PSEC,76547.0,,post,2020-08-13
+PYPL,80579.0,Miscellaneous,post,2020-08-13
+QCOM,45923.0,Technology,post,2020-08-13
+QQQ,49318.0,Technology,post,2020-08-13
+RCL,221033.0,Consumer Services,post,2020-08-13
+RIGL,53299.0,Health Care,post,2020-08-13
+ROKU,51301.0,Consumer Services,post,2020-08-13
+RUN,37047.0,Capital Goods,post,2020-08-13
+RWT,32942.0,Consumer Services,post,2020-08-13
+S,93468.0,Basic Industries,post,2020-08-13
+SAVE,202797.0,Transportation,post,2020-08-13
+SBUX,202654.0,Consumer Services,post,2020-08-13
+SFIX,31391.0,Consumer Services,post,2020-08-13
+SHOP,68723.0,Technology,post,2020-08-13
+SIRI,104130.0,Consumer Services,post,2020-08-13
+SIX,46286.0,Consumer Services,post,2020-08-13
+SLV,35514.0,Basic Industries,post,2020-08-13
+SNAP,350278.0,Technology,post,2020-08-13
+SNE,110422.0,Consumer Non-Durables,post,2020-08-13
+SPG,35872.0,Consumer Services,post,2020-08-13
+SPHD,90627.0,ETF,post,2020-08-13
+SPOT,41375.0,Consumer Services,post,2020-08-13
+SPY,118838.0,ETF,post,2020-08-13
+SPYD,31007.0,ETF,post,2020-08-13
+SQ,118574.0,Technology,post,2020-08-13
+SRNE,97117.0,Health Care,post,2020-08-13
+T,218234.0,Public Utilities,post,2020-08-13
+TDOC,35217.0,Health Care,post,2020-08-13
+TELL,37402.0,Energy,post,2020-08-13
+TEVA,30937.0,Health Care,post,2020-08-13
+TGT,38410.0,Consumer Services,post,2020-08-13
+TMUS,34861.0,Public Utilities,post,2020-08-13
+TRVN,33577.0,Health Care,post,2020-08-13
+TSLA,563621.0,Capital Goods,post,2020-08-13
+TSM,31594.0,Technology,post,2020-08-13
+TWLO,36731.0,Technology,post,2020-08-13
+TWO,53293.0,Consumer Services,post,2020-08-13
+TWTR,232223.0,Technology,post,2020-08-13
+TXMD,89291.0,Health Care,post,2020-08-13
+UAA,33045.0,Consumer Non-Durables,post,2020-08-13
+UAL,311457.0,Transportation,post,2020-08-13
+UAVS,54645.0,,post,2020-08-13
+UCO,137183.0,ETF,post,2020-08-13
+USO,144863.0,ETF,post,2020-08-13
+UWT,56224.0,ETF,post,2020-08-13
+V,98269.0,Miscellaneous,post,2020-08-13
+VKTX,69262.0,Health Care,post,2020-08-13
+VOO,136586.0,ETF,post,2020-08-13
+VSLR,100265.0,Capital Goods,post,2020-08-13
+VTI,69448.0,ETF,post,2020-08-13
+VXRT,72186.0,Health Care,post,2020-08-13
+VYM,48856.0,ETF,post,2020-08-13
+VZ,55027.0,Public Utilities,post,2020-08-13
+WFC,98325.0,Finance,post,2020-08-13
+WKHS,132494.0,Capital Goods,post,2020-08-13
+WLL,46476.0,Energy,post,2020-08-13
+WM,32572.0,Public Utilities,post,2020-08-13
+WMT,99421.0,Consumer Services,post,2020-08-13
+WPG,49921.0,Consumer Services,post,2020-08-13
+WYNN,30887.0,Consumer Services,post,2020-08-13
+X,31046.0,Basic Industries,post,2020-08-13
+XOM,162144.0,Energy,post,2020-08-13
+XXII,49840.0,Health Care,post,2020-08-13
+ZN,35225.0,Basic Industries,post,2020-08-13
+ZNGA,219734.0,Technology,post,2020-08-13
+ZOM,55529.0,Health Care,post,2020-08-13
+ZYNE,31720.0,Health Care,post,2020-08-13
